@@ -1,7 +1,7 @@
 <?php
 
 $allowedDomains = [
-    "https://hirayaph.onrender.com",
+    "hirayaph.onrender.com",
 ];
 
 $currentHost = strtolower($_SERVER['HTTP_HOST'] ?? '');
