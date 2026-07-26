@@ -1,5 +1,4 @@
 <?php
-require_once __DIR__ . '/protection.php';
 require_once __DIR__ . '/config.php';
 ?>
 
