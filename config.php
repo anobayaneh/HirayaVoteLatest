@@ -55,7 +55,7 @@ function cfg(string $key): bool
 
 
 $CONFIG = [
-    'votePage' => 'on',
+    'votePage' => 'off',
 ];
 
 
