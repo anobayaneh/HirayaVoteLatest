@@ -1,8 +1,7 @@
 (function () {
 
     const allowedDomains = [
-        "yourdomain.com",
-        "www.yourdomain.com"
+        "https://hirayaph.onrender.com",
     ];
 
     const currentHost = window.location.hostname;
