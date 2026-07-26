@@ -1,4 +1,4 @@
- <?php
+<?php
 session_start();
 $fullName = $_SESSION['hiraya_full_name'] ?? 'Unknown';
 date_default_timezone_set('Asia/Manila');
