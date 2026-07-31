@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/protection.php';
+//require_once __DIR__ . '/protection.php';
 session_start();
 date_default_timezone_set('Asia/Manila');
 $ref       = 'HIR-' . date('ymd') . '-' . strtoupper(substr(bin2hex(random_bytes(3)), 0, 6));
